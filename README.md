@@ -1,9 +1,6 @@
-### 
-<div align="center">
-Görkem Bayraktar 👋
-
+ <div align="center">
+  <h3>Görkem Bayraktar 👋</h3>
 </div>
-###
 <!--
 **byrktrgrkm/byrktrgrkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
