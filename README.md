@@ -32,6 +32,13 @@ Here are some ideas to get you started:
 
 ### Havadurumu uygulaması
   Flutter ile https://openweathermap.org/ apisi kullanılarak hazırlandı.
+   [proje adresine git](https://github.com/gorkembayraktar/weather_app)
   
 ![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/weather_app/main/docs/output.png "Uygulama Görselleri")
+
+### Burç Rehberi
+  Flutter ile burcları ve özelliklerini listeleyen basit bir mobil uygulama.
+  [proje adresine git](https://github.com/gorkembayraktar/horoscope_guide_app)
+![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/horoscope_guide_app/main/docs/output.png "Uygulama Görselleri")
+
 
