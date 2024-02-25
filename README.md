@@ -28,5 +28,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=gorkembayraktar" height="150" alt="languages graph"  />
 </div>
 
-###
+### Mobil Uygulamalar
+
+### Havadurumu uygulaması
+  Flutter ile https://openweathermap.org/ apisi kullanılarak hazırlandı.
+  
+![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/weather_app/main/docs/output.png "Uygulama Görselleri")
 
