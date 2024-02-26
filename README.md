@@ -42,6 +42,14 @@ Here are some ideas to get you started:
 ![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/horoscope_guide_app/main/docs/output.png "Uygulama Görselleri")
 
 
+### Online Uygulamalar
+
+### Online Kart Eşleştirme Oyunu
+  vue.js, socket.io, firebase
+   [proje adresine git](https://github.com/gorkembayraktar/akiloyunu)
+ ![Uygulama Görselleri!](https://i.imgur.com/wohZciW.png "Uygulama Görselleri")
+
+
 ### Kurumsal Web Siteleri
   PHP frameworkleri hazırlanmış örnek proje kodlarına aşağıda yer verilmiştir.
 ### Sürücü Kursu Web Sitesi
