@@ -42,3 +42,13 @@ Here are some ideas to get you started:
 ![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/horoscope_guide_app/main/docs/output.png "Uygulama Görselleri")
 
 
+### Kurumsal Web Siteleri
+  PHP frameworkleri hazırlanmış örnek proje kodlarına aşağıda yer verilmiştir.
+### Sürücü Kursu Web Sitesi
+  Bu proje Laravel 10. sürüm ile hazırlanmıştır. Kurumsal işletme "sürücü kursu" tanıtımını gelişmiş yönetim paneli yapabilirsiniz.
+     [proje adresine git](https://github.com/gorkembayraktar/surucu-kursu)
+
+ ![Uygulama Görselleri!](https://i.ibb.co/5FWzvjC/screencapture-drivingschool-smurftheme-net-2023-09-11-18-04-35.png "Uygulama Görselleri")
+     
+
+
