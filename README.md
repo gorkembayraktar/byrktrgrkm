@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   Bu proje Laravel 10. sürüm ile hazırlanmıştır. Kurumsal işletme "sürücü kursu" tanıtımını gelişmiş yönetim paneli yapabilirsiniz.
      [proje adresine git](https://github.com/gorkembayraktar/surucu-kursu)
 
- ![Uygulama Görselleri!](https://i.ibb.co/5FWzvjC/screencapture-drivingschool-smurftheme-net-2023-09-11-18-04-35.png "Uygulama Görselleri")
+<img src="https://i.ibb.co/5FWzvjC/screencapture-drivingschool-smurftheme-net-2023-09-11-18-04-35.png" />
      
 
 
