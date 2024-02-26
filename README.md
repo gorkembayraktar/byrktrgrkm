@@ -47,13 +47,18 @@ Here are some ideas to get you started:
 ### Sürücü Kursu Web Sitesi
   Bu proje Laravel 10. sürüm ile hazırlanmıştır. Kurumsal işletme "sürücü kursu" tanıtımını gelişmiş yönetim paneli yapabilirsiniz.
      [proje adresine git](https://github.com/gorkembayraktar/surucu-kursu)
+<details>
+  <summary>Uygulama Görselleri!</summary>
+  <img src="https://i.imgur.com/ggppCzO.jpeg" /> 
+</details>
 
-![Uygulama Görselleri!](https://i.imgur.com/ggppCzO.jpeg "Uygulama Görselleri") 
 
 ### Kurumsal Anaokulu
   Codeigniter 4 ile geliştirildi. [proje adresine git](https://github.com/gorkembayraktar/codeigniter4-kurumsal)
-
-![Uygulama Görselleri!](https://i.imgur.com/EaXNZAl.jpeg "Uygulama Görselleri") 
+<details>
+  <summary>Uygulama Görselleri!</summary>
+  <img src="https://i.imgur.com/EaXNZAl.jpeg" /> 
+</details>
 
 
 
