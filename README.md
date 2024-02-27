@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ### Gider Takip Uygulaması
   Flutter ile hazırlandı, local db isar kullanıldı.
+    [proje adresine git](https://github.com/gorkembayraktar/expense_tracker_app)
   ![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/expense_tracker_app/main/docs/output.png "Uygulama Görselleri")
 
 ### Burç Rehberi
