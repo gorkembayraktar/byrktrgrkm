@@ -36,6 +36,10 @@ Here are some ideas to get you started:
   
 ![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/weather_app/main/docs/output.png "Uygulama Görselleri")
 
+### Gider Takip Uygulaması
+  Flutter ile hazırlandı, local db isar kullanıldı.
+  ![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/expense_tracker_app/main/docs/output.png "Uygulama Görselleri")
+
 ### Burç Rehberi
   Flutter ile burcları ve özelliklerini listeleyen basit bir mobil uygulama.
   [proje adresine git](https://github.com/gorkembayraktar/horoscope_guide_app)
