@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 
 ### Mobil Uygulamalar
 
+### Wallpaper uygulaması
+  Flutter ile firebase kullanılarak hazırlandı.
+   [proje adresine git](https://github.com/gorkembayraktar/wallpaper_app)
+  
+![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/wallpaper_app/main/docs/screens.png "Uygulama Görselleri")
+
 ### Havadurumu uygulaması
   Flutter ile https://openweathermap.org/ apisi kullanılarak hazırlandı.
    [proje adresine git](https://github.com/gorkembayraktar/weather_app)
