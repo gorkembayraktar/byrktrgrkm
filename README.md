@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 
 ### Mobil Uygulamalar
 
+### Minimal Sosyal Medya Uygulaması
+  Flutter ile firebase kullanılarak hazırlandı.
+   [proje adresine git](https://github.com/gorkembayraktar/basic_social_media_app)
+  
+![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/basic_social_media_app/main/docs/screens.png "Uygulama Görselleri")
+
 ### Wallpaper uygulaması
   Flutter ile firebase kullanılarak hazırlandı.
    [proje adresine git](https://github.com/gorkembayraktar/wallpaper_app)
