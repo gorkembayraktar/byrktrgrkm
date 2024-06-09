@@ -83,6 +83,34 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&username=gorkembayraktar" height="150" alt="languages graph"  />
 </div>
 
+
+### Online Uygulamalar
+
+### Online Kart Eşleştirme Oyunu
+  vue.js, socket.io, firebase
+   [proje adresine git](https://github.com/gorkembayraktar/akiloyunu)
+ ![Uygulama Görselleri!](https://i.imgur.com/wohZciW.png "Uygulama Görselleri")
+
+
+### Kurumsal Web Siteleri
+  PHP frameworkleri hazırlanmış örnek proje kodlarına aşağıda yer verilmiştir.
+### Sürücü Kursu Web Sitesi
+  Bu proje Laravel 10. sürüm ile hazırlanmıştır. Kurumsal işletme "sürücü kursu" tanıtımını gelişmiş yönetim paneli yapabilirsiniz.
+     [proje adresine git](https://github.com/gorkembayraktar/surucu-kursu)
+<details>
+  <summary>Uygulama Görselleri!</summary>
+  <img src="https://i.imgur.com/ggppCzO.jpeg" /> 
+</details>
+
+
+### Kurumsal Anaokulu
+  Codeigniter 4 ile geliştirildi. [proje adresine git](https://github.com/gorkembayraktar/codeigniter4-kurumsal)
+<details>
+  <summary>Uygulama Görselleri!</summary>
+  <img src="https://i.imgur.com/EaXNZAl.jpeg" /> 
+</details>
+
+
 ### Mobil Uygulamalar
 
 ### Minimal Sosyal Medya Uygulaması
@@ -114,31 +142,6 @@ Here are some ideas to get you started:
 ![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/horoscope_guide_app/main/docs/output.png "Uygulama Görselleri")
 
 
-### Online Uygulamalar
-
-### Online Kart Eşleştirme Oyunu
-  vue.js, socket.io, firebase
-   [proje adresine git](https://github.com/gorkembayraktar/akiloyunu)
- ![Uygulama Görselleri!](https://i.imgur.com/wohZciW.png "Uygulama Görselleri")
-
-
-### Kurumsal Web Siteleri
-  PHP frameworkleri hazırlanmış örnek proje kodlarına aşağıda yer verilmiştir.
-### Sürücü Kursu Web Sitesi
-  Bu proje Laravel 10. sürüm ile hazırlanmıştır. Kurumsal işletme "sürücü kursu" tanıtımını gelişmiş yönetim paneli yapabilirsiniz.
-     [proje adresine git](https://github.com/gorkembayraktar/surucu-kursu)
-<details>
-  <summary>Uygulama Görselleri!</summary>
-  <img src="https://i.imgur.com/ggppCzO.jpeg" /> 
-</details>
-
-
-### Kurumsal Anaokulu
-  Codeigniter 4 ile geliştirildi. [proje adresine git](https://github.com/gorkembayraktar/codeigniter4-kurumsal)
-<details>
-  <summary>Uygulama Görselleri!</summary>
-  <img src="https://i.imgur.com/EaXNZAl.jpeg" /> 
-</details>
 
 
 <div align="center">
