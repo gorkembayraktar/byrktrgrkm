@@ -89,7 +89,15 @@ Here are some ideas to get you started:
 ### Online Kart Eşleştirme Oyunu
   vue.js, socket.io, firebase
    [proje adresine git](https://github.com/gorkembayraktar/akiloyunu)
+
+   <details>
+  <summary>Uygulama Görselleri!</summary>
+     
  ![Uygulama Görselleri!](https://i.imgur.com/wohZciW.png "Uygulama Görselleri")
+ 
+</details>
+
+
 
 
 ### Kurumsal Web Siteleri
