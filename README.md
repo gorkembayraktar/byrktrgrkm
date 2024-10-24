@@ -124,31 +124,46 @@ Here are some ideas to get you started:
 ### Minimal Sosyal Medya Uygulaması
   Flutter ile firebase kullanılarak hazırlandı.
    [proje adresine git](https://github.com/gorkembayraktar/basic_social_media_app)
-  
-![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/basic_social_media_app/main/docs/screens.png "Uygulama Görselleri")
+  <details>
+  <summary>Uygulama Görselleri!</summary>
+  <img src="https://raw.githubusercontent.com/gorkembayraktar/basic_social_media_app/main/docs/screens.png" /> 
+</details>
+
+
 
 ### Wallpaper uygulaması
   Flutter ile firebase kullanılarak hazırlandı.
    [proje adresine git](https://github.com/gorkembayraktar/wallpaper_app)
-  
-![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/wallpaper_app/main/docs/screens.png "Uygulama Görselleri")
+    <details>
+  <summary>Uygulama Görselleri!</summary>
+  <img src="https://raw.githubusercontent.com/gorkembayraktar/wallpaper_app/main/docs/screens.png" /> 
+</details>
+
 
 ### Havadurumu uygulaması
   Flutter ile https://openweathermap.org/ apisi kullanılarak hazırlandı.
    [proje adresine git](https://github.com/gorkembayraktar/weather_app)
-  
-![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/weather_app/main/docs/output.png "Uygulama Görselleri")
+      <details>
+  <summary>Uygulama Görselleri!</summary>
+  <img src="https://raw.githubusercontent.com/gorkembayraktar/weather_app/main/docs/output.png" /> 
+</details>
+
 
 ### Gider Takip Uygulaması
   Flutter ile hazırlandı, local db isar kullanıldı.
     [proje adresine git](https://github.com/gorkembayraktar/expense_tracker_app)
-  ![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/expense_tracker_app/main/docs/output.png "Uygulama Görselleri")
+    <details>
+  <summary>Uygulama Görselleri!</summary>
+  <img src="https://raw.githubusercontent.com/gorkembayraktar/expense_tracker_app/main/docs/output.png" /> 
+</details>
 
 ### Burç Rehberi
   Flutter ile burcları ve özelliklerini listeleyen basit bir mobil uygulama.
   [proje adresine git](https://github.com/gorkembayraktar/horoscope_guide_app)
-![Uygulama Görselleri!](https://raw.githubusercontent.com/gorkembayraktar/horoscope_guide_app/main/docs/output.png "Uygulama Görselleri")
-
+    <details>
+  <summary>Uygulama Görselleri!</summary>
+  <img src="https://raw.githubusercontent.com/gorkembayraktar/horoscope_guide_app/main/docs/output.png" /> 
+</details>
 
 
 
